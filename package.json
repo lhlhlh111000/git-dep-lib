@@ -44,5 +44,8 @@
   "bugs": {
     "url": "https://github.com/lhlhlh111000/git-dep-lib/issues"
   },
-  "homepage": "https://github.com/lhlhlh111000/git-dep-lib#readme"
+  "homepage": "https://github.com/lhlhlh111000/git-dep-lib#readme",
+  "directories": {
+    "lib": "lib"
+  }
 }
