@@ -7897,7 +7897,7 @@ react-dev-utils@^9.0.4:
     strip-ansi "5.2.0"
     text-table "0.2.0"
 
-react-dom@16.9.0:
+react-dom@^16.9.0:
   version "16.9.0"
   resolved "https://registry.npm.taobao.org/react-dom/download/react-dom-16.9.0.tgz?cache=0&sync_timestamp=1568742267151&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Freact-dom%2Fdownload%2Freact-dom-16.9.0.tgz#5e65527a5e26f22ae3701131bcccaee9fb0d3962"
   integrity sha1-XmVSel4m8irjcBExvMyu6fsNOWI=
@@ -7978,7 +7978,7 @@ react-scripts@3.1.2:
   optionalDependencies:
     fsevents "2.0.7"
 
-react@16.9.0:
+react@^16.9.0:
   version "16.9.0"
   resolved "https://registry.npm.taobao.org/react/download/react-16.9.0.tgz?cache=0&sync_timestamp=1568742262199&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Freact%2Fdownload%2Freact-16.9.0.tgz#40ba2f9af13bc1a38d75dbf2f4359a5185c4f7aa"
   integrity sha1-QLovmvE7waONddvy9DWaUYXE96o=
@@ -9344,6 +9344,11 @@ typedarray@^0.0.6:
   version "0.0.6"
   resolved "https://registry.npm.taobao.org/typedarray/download/typedarray-0.0.6.tgz#867ac74e3864187b1d3d47d996a78ec5c8830777"
   integrity sha1-hnrHTjhkGHsdPUfZlqeOxciDB3c=
+
+typescript@^3.6.3:
+  version "3.6.3"
+  resolved "https://registry.npm.taobao.org/typescript/download/typescript-3.6.3.tgz?cache=0&sync_timestamp=1569046677785&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Ftypescript%2Fdownload%2Ftypescript-3.6.3.tgz#fea942fabb20f7e1ca7164ff626f1a9f3f70b4da"
+  integrity sha1-/qlC+rsg9+HKcWT/Ym8anz9wtNo=
 
 uglify-js@3.4.x:
   version "3.4.10"
